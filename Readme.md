@@ -1,38 +1,35 @@
-<p align="center" font="verdana">Hello I'm Doğan</p>
+Hi 👋 My name is Doğan Arslan
+=============================
 
-<br />
-
-**About me**
+JR Front End Developer
+----------------------
 
 Hello, I’m Dogan. I’m 20 years old. I find coding and fiddling with code a lot of fun. For this reason, I am developing myself in the field of Front End Developer.
 
+* 🌍  I'm based in Turkey
+* ✉️  You can contact me at [arslan.dgn51@gmail.com](mailto:arslan.dgn51@gmail.com)
+* 🧠  I'm learning React Js
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgnarslan)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=dgnarslan&show_icons=true)
+### Skills
 
-#### Top Repositories
-
-
-<a href="https://github.com/dgnarslan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dgnarslan&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/dgnarslan/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dgnarslan&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-<br />
-<br />
-
-<p>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code> 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 </p>
 
-#### Cantact Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dgnarslan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dgnarslan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dgn_arsl)  
-<br />
-<br />
+### Socials
 
+<p align="left"> <a href="https://discord.com/users/dgnarslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/dgnarslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dgnarslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dgn_arsl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### My GitHub Stats
+
+
+<div>
+  <a href="http://www.github.com/dgnarslan" ><img src="https://github-readme-stats.vercel.app/api?username=dgnarslan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="dgnarslan's GitHub stats" /></a>
+ <a href="https://github.com/dgnarslan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgnarslan&langs_count=10&title_color=0891b2&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
 
