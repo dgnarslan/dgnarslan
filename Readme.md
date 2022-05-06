@@ -29,6 +29,10 @@ Hello, I’m Dogan. I’m 20 years old. I find coding and fiddling with code a l
 
 
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dgnarslan&show_icons=true&locale=en&layout=compact" alt="dgnarslan" />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dgnarslan)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgnarslan)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dgnarslan&show_icons=true)  
 </div>
 
