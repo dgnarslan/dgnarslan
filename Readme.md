@@ -29,6 +29,6 @@ Hello, I’m Dogan. I’m 20 years old. I find coding and fiddling with code a l
 
 
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgnarslan)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dgnarslan&show_icons=true&locale=en&layout=compact" alt="dgnarslan" />
 </div>
 
