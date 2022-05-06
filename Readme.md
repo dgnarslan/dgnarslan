@@ -29,7 +29,7 @@ Hello, I’m Dogan. I’m 20 years old. I find coding and fiddling with code a l
 
 
 <div>
-  <a href="http://www.github.com/dgnarslan" ><img src="https://github-readme-stats.vercel.app/api?username=dgnarslan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="dgnarslan's GitHub stats" /></a>
- <a href="https://github.com/dgnarslan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgnarslan&langs_count=10&title_color=0891b2&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgnarslan)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dgnarslan&show_icons=true)  
 </div>
 
