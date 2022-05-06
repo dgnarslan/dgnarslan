@@ -28,5 +28,5 @@ Hello, I’m Dogan. I’m 20 years old. I find coding and fiddling with code a l
 ### My GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=dgnarslan&theme=city_light&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dgnarslan&theme=city_light&hide_border=true)
-![](https://githubreadmestats.vercel.app/api/toplangs/username=dgnarslan&theme=city_light&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dgnarslan&theme=city_light&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
