@@ -26,7 +26,7 @@ Hello, I’m Dogan. I’m 20 years old. I find coding and fiddling with code a l
 <p align="left"> <a href="https://discord.com/users/dgnarslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/dgnarslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dgnarslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dgn_arsl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### My GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=dgnarslan&theme=city_light&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=dgnarslan&theme=city_light&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=dgnarslan&theme=city_light&hide_border=false&include_all_commits=true&count_private=false)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dgnarslan&show_icons=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dgnarslan&theme=city_light&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
