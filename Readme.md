@@ -4,7 +4,7 @@ Hi 👋 My name is Doğan Arslan
 JR Front End Developer
 ----------------------
 
-Hello, I’m Dogan. I’m 20 years old. I find coding and fiddling with code a lot of fun. For this reason, I am developing myself in the field of Front End Developer.
+With 1 year of experience as a Frontend Developer, I had the opportunity to continuously improve my knowledge and skills in modern web technologies and user interface development. During this time, I worked to develop user-friendly and responsive websites using basic web technologies such as HTML, CSS and JavaScript.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [arslan.dgn51@gmail.com](mailto:arslan.dgn51@gmail.com)
